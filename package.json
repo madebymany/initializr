@@ -1,0 +1,19 @@
+{
+  "name": "initializr",
+  "version": "0.0.1",
+  "description": "use MVC controller and action names to initialise JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/madebymany/initializr.git"
+  },
+  "author": "Andrew Walker <andy@madebymany.co.uk>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/madebymany/initializr/issues"
+  },
+  "homepage": "https://github.com/madebymany/initializr#readme"
+}
