@@ -1,19 +1,3 @@
-//
-//  Usage:
-//
-//  <body data-controller="boom" data-action="new">
-//
-//  import Code from "./code-to-run.js";
-//
-//  initializr({
-//    "boom": {
-//      new() {
-//        console.log(`run ${Code()} here`);
-//      }
-//    }
-//  });
-//
-
 function initializr (modules = {}, el = document.body) {
   const {controller, action} = el.dataset;
 
